@@ -145,6 +145,8 @@
 
 - 学习网址：https://www.bilibili.com/video/BV1CJ411T7BK?p=14&spm_id_from=pageDriver
 - 课程资料：链接：https://pan.baidu.com/s/14R3bgLxukdV9tChBYDcl7Q  提取码：kmjl 
+- ubuntu环境下
+	- 安装docker:curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
 
 
 
