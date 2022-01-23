@@ -147,7 +147,8 @@
 - 课程资料：链接：https://pan.baidu.com/s/14R3bgLxukdV9tChBYDcl7Q  提取码：kmjl 
 - ubuntu环境下
 	- 安装docker:curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
-
+	- 创建docker: docker run -it --name=c1 centos:7 /bin/bash
+	- 进入容器： docker exec -it c1 /bin/bash
 
 
 ##### 2.软件安装
