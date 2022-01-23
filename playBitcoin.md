@@ -149,6 +149,15 @@
 	- 安装docker:curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
 	- 创建docker: docker run -it --name=c1 centos:7 /bin/bash
 	- 进入容器： docker exec -it c1 /bin/bash
+	- 配置镜像加速器：
+	sudo mkdir -p /etc/docker
+	sudo tee /etc/docker/daemon.json <<-'EOF'
+	{
+	  "registry-mirrors": ["https://n94pl1s6.mirror.aliyuncs.com"]
+	}
+	EOF
+	sudo systemctl daemon-reload
+	sudo systemctl restart docker
 
 
 ##### 2.软件安装
