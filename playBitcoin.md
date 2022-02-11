@@ -487,6 +487,14 @@
 1.also include corporations（公司）, institutions（机构.The bitcoin address is derived(派生 导出 ) from the public key）, an arbitrary(任意的)-sized input.protect against（使免受） errors in address transcription（抄写、转录） and entry（进入、录入）
 2.In order to represent long numbers in a compact(紧凑、简洁) way,26 lowercase（小写） letters, 26 capital（大写） letters, 10 numerals.binary attachments（附件）.error detection （检测）and prevention（预防）.omitting（删掉） some characters that are frequently mistaken for one another and can appear identical（完全相同） when displayed in certain fonts（字体）.
 3.whereas（然而，鉴于）.Hexadecimal and raw binary formats are used internally(内部) in software and rarely shown to users. manipulate(操作、控制) bitcoin keys.This denotes(表示) that the private key within（之内） has a suffix of "01"
+4.conserve（节省、保护） disk space.with the prefix 02 if the y is even(偶数), and 03 if it is odd（奇数）, allowing the software to correctly deduce（推断，演绎）the y coordinate from the x coordinate.significant(显著的) impact.misnomer(误称 用词不当).these formats are not used interchangeably（可交换地）
+5.The most comprehensive（全面） bitcoin library
+
+## 高级密钥和地址
+1.multisignature addresses（多签名抵制）, vanity（虚荣） addresses（靓号地址）, and paper wallets.
+2.The need for confidentiality（保密性） of the private keys is a truism（老生常谈） that is quite difficult to achieve in practice, because it conflicts（冲突） with the equally important security objective（主题） of availability（可用性）. external（外部的） storage media
+3.BIP-38 proposes（建议、提出） a common standard for encrypting private keys with a passphrase（密码、口令） .A BIP-38 encryption scheme(计划、方案)
+4. sometimes erroneously(错误的) called multisignature,They designate(指定) the beneficiary（收款人） of a bitcoin transaction as the hash of a script.spouse(配偶)
 ```
 
 
