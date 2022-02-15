@@ -561,7 +561,9 @@
 2.gateway routing servers（网关路由服务），up-to-date（最新的） copy of the blockchain，network latency（延迟）.Bitcoin miners are engaged(忙于……的) in a time-sensitive competition to solve the Proof-of-Work problem.profit margins(利润率).they are overlay（上层） networks that provide additional connectivity between nodes.Like freeways(高速公路) are not replacements for rural（乡村的） roads
 
 ## 网络发现
-1.The geographic（地理的） location of other nodes is irrelevant（不相关的）， assist（帮助） other nodes.periodically(定时) send ， sought(寻找（seek 的过去式和过去分词）)。 organically（有机的） grow and shrink .without recourse(求助),which it then verifies and incorporates(合并) into its local copy of the blockchain.
+1.The geographic（地理的） location of other nodes is irrelevant（不相关的）， assist（帮助） other nodes.periodically(定时) send ， sought(寻找（seek 的过去式和过去分词）)。 organically（有机的） grow and shrink .without recourse(求助),which it then verifies and incorporates(合并) into its local copy of the blockchain. smartphones, tablets(平板电脑), or embedded systems
+2.As bitcoin adoption surges（使用兴起）,As an analogy（类比）,turn-by-turn（路线规划）.cannot be persuaded(说服)，For infallible（绝对可靠的） security.an SPV node checks how deep the block is buried by a handful of(一些) blocks above it.By varying（变化） the precision of the search
+3. a search pattern for transactions that can be tuned（调节） toward precision or privacy
 
 ## bloom过滤器工作原理
 1.coincide（巧合） ，overlapping（重叠），become saturated（饱和的），an adversary（对手）
