@@ -593,8 +593,9 @@
 
 ## 去中心化共识
 1.The blockchain is assembled（组装） independently by every node in the network.Satoshi Nakamoto’s main invention is the decentralized mechanism for emergent consensus(自发共识).consensus is an emergent artifact(自发产物) of the asynchronous interaction(异步交互) of thousands of independent nodes.from the interplay(相互作用) of four processes
-2.the arrival of a new block has special significance(意义) for a mining node.one "halving" period has elapsed(过去).
-
+2.the arrival of a new block has special significance(意义) for a mining node.one "halving" period has elapsed(过去).The initial subsidy（补贴）. being deemed(认为) invalid
+,endorse（赞同） ，The first part 0x19 is a hexadecimal exponent（指数）, while the next part, 0x03a30c, is the coefficient（系数）. 
+3.As a corollary（推论）,punctuation mark（标点符号），evenly（平均的），threshold（阈值），a pair of dice（骰子）
 ```
 
 
